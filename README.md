@@ -27,4 +27,29 @@ The training set should be used to build machine learning models. For the traini
 
 The test set should be used to see how well the model performs on unseen data. For the test set, ground truth is not provided for each passenger. Predict these outcomes. For each passenger in the test set, use the model I trained to predict whether or not they survived the sinking of the Titanic.<br>
 
-The file gender_submission.csv is included as well, it’s a set of predictions that assume all and only female passengers survive, as an example of what a submission file should look like.<br>
+The file gender_submission.csv is included. It is a set of predictions that assume all and only female passengers survive, as an example of what a submission file should look like.<br>
+
+Variable Notes
+----
+pclass: A proxy for socio-economic status (SES)<br>
+* 1st = Upper
+* 2nd = Middle
+* 3rd = Lower
+
+age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5<br>
+
+sibsp: The dataset defines family relations in this way<br>
+* Sibling = brother, sister, stepbrother, stepsister<br>
+* Spouse = husband, wife (mistresses and fiancés were ignored)<br>
+
+parch: The dataset defines family relations in this way<br>
+* Parent = mother, father<br>
+* Child = daughter, son, stepdaughter, stepson<br>
+
+Some children travelled only with a nanny, therefore parch=0 for them.
+
+
+
+
+
+
