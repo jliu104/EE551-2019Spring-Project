@@ -29,6 +29,23 @@ The test set should be used to see how well the model performs on unseen data. F
 
 The file gender_submission.csv is included. It is a set of predictions that assume all and only female passengers survive, as an example of what a submission file should look like.<br>
 
+Data Dictionary
+---
+>Variable	          Definition	                Key<br>
+>survival	          Survival	                  0 = No, 1 = Yes<br>
+>pclass	            Ticket class	              1 = 1st, 2 = 2nd, 3 = 3rd<br>
+>sex	                Sex	<br>
+>Age	                Age in years	<br>
+>sibsp	              # of siblings / spouses <br>
+>                    aboard the Titanic	<br>
+>parch	              # of parents / children <br>
+>                    aboard the Titanic	<br>
+>ticket	            Ticket number	<br>
+>fare	              Passenger fare	<br>
+>cabin	              Cabin number	<br>
+>embarked	          Port of Embarkation	        C = Cherbourg, Q = Queenstown, <br>
+                                                S = Southampton<br>
+
 Variable Notes
 ----
 pclass: A proxy for socio-economic status (SES)<br>
