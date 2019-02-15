@@ -1,7 +1,7 @@
 Titanic: Machine Learning from Disaster
 ====
 [![python3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/windows/)
-[![R](https://img.shields.io/badge/R-red.svg)](https://mirrors.tuna.tsinghua.edu.cn/CRAN/)
+[![R3.5.2](https://img.shields.io/badge/R-3.5.2-red.svg)](https://mirrors.tuna.tsinghua.edu.cn/CRAN/)
 
 Introduction
 ----
