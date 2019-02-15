@@ -1,5 +1,7 @@
 Titanic: Machine Learning from Disaster
 ====
+[![python3.7](https://img.shields.io/badge/python-3.7-brightgreen.svg)](https://www.python.org/downloads/windows/)
+
 Introduction
 ----
 This is my EE551 python individual project | Author: Jingxuan Liu<br>
