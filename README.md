@@ -24,5 +24,7 @@ The data has been split into two groups:<br>
 * test set (test.csv)<br>
 
 The training set should be used to build machine learning models. For the training set, there is the outcome (also known as the “ground truth”) for each passenger. The model will be based on “features” like passengers’ gender and class. Use feature engineering to create new features.<br>
+
 The test set should be used to see how well the model performs on unseen data. For the test set, ground truth is not provided for each passenger. Predict these outcomes. For each passenger in the test set, use the model I trained to predict whether or not they survived the sinking of the Titanic.<br>
+
 The file gender_submission.csv is included as well, it’s a set of predictions that assume all and only female passengers survive, as an example of what a submission file should look like.<br>
