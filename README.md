@@ -71,7 +71,8 @@ Some children travelled only with a nanny, therefore parch=0 for them.
 Author
 ---
 Jingxuan Liu
-
+Electircal Engineering
+Stevens Institute of Technology
 
 
 
