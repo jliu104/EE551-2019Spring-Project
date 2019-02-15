@@ -31,9 +31,9 @@ The file gender_submission.csv is included. It is a set of predictions that assu
 
 Data Dictionary
 ---
-    Variable	          Definition	                   Key<br>
-    survival	          Survival	                       0 = No, 1 = Yes<br>
-    pclass	              Ticket class	                   1 = 1st, 2 = 2nd, 3 = 3rd<br>
+    Variable	          Definition	                   Key
+    survival	          Survival	                       0 = No, 1 = Yes
+    pclass	              Ticket class	                   1 = 1st, 2 = 2nd, 3 = 3rd
     sex	                  Sex	
     Age	                  Age in years	
     sibsp	              # of siblings / spouses 
@@ -43,8 +43,8 @@ Data Dictionary
     ticket	              Ticket number	
     fare	              Passenger fare	
     cabin	              Cabin number	
-    embarked	          Port of Embarkation	           C = Cherbourg, Q = Queenstown, <br>
-                                                           S = Southampton<br>
+    embarked	          Port of Embarkation	           C = Cherbourg, Q = Queenstown, 
+                                                           S = Southampton
 
 Variable Notes
 ----
