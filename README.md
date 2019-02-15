@@ -5,7 +5,8 @@ Introduction
 This is my EE551 python individual project | Author: Jingxuan Liu<br>
 >The sinking of the RMS Titanic is one of the most infamous shipwrecks in history.  On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.<br>
 
->One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew.Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.<br>
+>One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.<br>
+> Complete the analysis of what sorts of people were likely to survive.
 
 Proposals
 ---
@@ -21,3 +22,6 @@ Overview
 The data has been split into two groups:<br>
 * training set (train.csv)<br>
 * test set (test.csv)<br>
+The training set should be used to build machine learning models. For the training set, there is the outcome (also known as the “ground truth”) for each passenger. The model will be based on “features” like passengers’ gender and class. Use feature engineering to create new features.<br>
+The test set should be used to see how well the model performs on unseen data. For the test set, ground truth is not provided for each passenger. Predict these outcomes. For each passenger in the test set, use the model I trained to predict whether or not they survived the sinking of the Titanic.<br>
+The file gender_submission.csv is included as well, it’s a set of predictions that assume all and only female passengers survive, as an example of what a submission file should look like.<br>
