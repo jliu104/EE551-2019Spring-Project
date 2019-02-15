@@ -68,7 +68,9 @@ parch: The dataset defines family relations in this way<br>
 
 Some children travelled only with a nanny, therefore parch=0 for them.
 
-
+Author
+---
+Jingxuan Liu
 
 
 
