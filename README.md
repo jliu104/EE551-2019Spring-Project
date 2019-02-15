@@ -70,9 +70,9 @@ Some children travelled only with a nanny, therefore parch=0 for them.
 
 Author
 ---
-* Jingxuan Liu<br>
-* Electircal Engineering<br>
-* Stevens Institute of Technology<br>
+* Name: Jingxuan Liu<br>
+* Major: Electircal Engineering<br>
+* School: Stevens Institute of Technology<br>
 
 
 
