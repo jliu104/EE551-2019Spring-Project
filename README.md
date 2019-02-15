@@ -16,5 +16,5 @@ The percentage of passengers that correctly predict. This is known simply as "ac
 Overview
 ---
 The data has been split into two groups:<br>
-*training set (train.csv)<br>
-*test set (test.csv)<br>
+* training set (train.csv)<br>
+* test set (test.csv)<br>
